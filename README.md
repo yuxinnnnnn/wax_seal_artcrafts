@@ -1,1 +1,1 @@
-# wax_seal_artcrafts
+# Webpage for Yuxin's Artcrafts
